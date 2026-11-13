@@ -1,14 +1,21 @@
 # 精细化工仓库批次管理系统（WMS）
 
-> 当前阶段：**V0.3 业务需求与交互原型基线**。本仓库现阶段存放需求成果和可交互业务原型；HTML 原型是**模拟演示**，尚非生产系统，也不连接真实仓库数据库。
+> 当前阶段：**V0.4 行业化需求与交互原型基线**。本仓库现阶段存放需求成果和可交互业务原型；HTML 原型是**模拟演示**，尚非生产系统，也不连接真实仓库数据库。
 
 ## 在线/本地查看原型
 
-- [交互原型 V0.3（index.html）](./index.html)
+- [交互原型 V0.4（index.html）](./index.html)
 - GitHub Pages：可在仓库 **Settings → Pages** 选择 **Deploy from a branch**，选择 `main` 分支和 `/(root)` 目录。启用后访问 `https://sunkai-hit.github.io/WMS/`（仅在 Pages 成功部署后有效）。
 - 也可下载 `index.html` 后直接在浏览器打开，无需安装依赖。
 
-## 交付成果
+## V0.4 最新交付成果
+
+- [行业化设计升级说明 V0.4（Markdown）](./deliverables/WMS_行业化设计升级说明_V0.4.md)
+- [完整需求文档 V0.4（17章文本版）](./deliverables/WMS_业务需求方案_V0.4_行业化完整文本稿.md)
+- [交互原型 V0.4（HTML）](./index.html)
+- V0.4 可编辑 Word 文档在本次交付会话中提供下载；GitHub 当前已同步文字基线与 HTML 原型，不将 V0.3 的 Word 文件冒充为 V0.4。
+
+## V0.3 历史交付成果（保留）
 
 - [V0.3 业务需求方案（详细修订版）](./deliverables/WMS_业务需求方案_V0.3_详细修订版.docx)
 - [V0.3 功能清单](./deliverables/WMS_功能清单_V0.3.xlsx)
